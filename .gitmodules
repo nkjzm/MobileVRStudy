@@ -1,3 +1,5 @@
 [submodule "Assets/gvr"]
 	path = Assets/gvr
 	url = git@github.com:googlevr/gvr-unity-sdk.git
+        ignore = dirty
+
